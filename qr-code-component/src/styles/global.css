@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(219, 51%, 75%);
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer  a{
+    color: black;
+}
+
+.footer  a:hover {
+    transition: .5s;
+    color: grey;
+}
